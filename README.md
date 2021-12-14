@@ -1,6 +1,7 @@
 # DuDa Loop
-# Solve, Debug, Design
-DuDa Loop - Dive Understand Decide Act
+## When ever you are about to Solve, Debug, Design
+## DuDa Loop - Dive Understand Decide Act
+
 Inspired by OODA loop https://en.wikipedia.org/wiki/OODA_loop
 
 
