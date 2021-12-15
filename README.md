@@ -1,16 +1,13 @@
-# DuDa Loop
+# DuDa Loop - Dive Understand Decide Act
 ## When ever you are about to Solve, Debug, Design
-## DuDa Loop - Dive Understand Decide Act
 
-Inspired by OODA loop https://en.wikipedia.org/wiki/OODA_loop
+Inspired by [OODA loop](https://en.wikipedia.org/wiki/OODA_loop)
+<br><br>
+**Dive** deeper in order to gather more info, use tools to visualize and analyze the info
 
+The diving is done at the moment you **Understand** the challenge and can simply explain it
 
+**Decide** on optimal path, a sweet point that satisfy quality, time to market & requirements
 
-Dive gather info and use tools to investigate visualize and analyze the challenge
-
-The diving is done at the moment you Understand the challenge and can simply explain the requirements
-
-Decide on optimal path, a sweet point that satisfy quality, time to market & requirements
-
-Act Deliver a testable solution
+**Act** Deliver a testable solution
 
